@@ -1,6 +1,6 @@
 # myretail-service
 
-RestFUL Service to retrive and product information.
+RestFUL Service to retrive and product information. This is a Spring Boot application which comes with embedded MongoDB to store and retreive product info.
 
 Payload for adding Product information.
 {
